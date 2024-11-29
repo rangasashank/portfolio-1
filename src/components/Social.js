@@ -10,7 +10,7 @@ function Social() {
         <Menu>
             <LinkedIn style={{fontSize : "10vh"}} onClick={()=> window.open('https://www.linkedin.com/in/ranga-sashank-g-2028701a6/', '_blank')}/>
             <GitHub style={{fontSize : "10vh"}} onClick={()=> window.open('https://github.com/rangasashank', '_blank')}/>
-            <Resume style={{fontSize : "10vh"}} onClick={()=> window.open('https://drive.google.com/file/d/1XRGZl5Vl2Q5JpUoITZYUn5fKzjrOVdkZ/view?usp=sharing','_blank')} />
+            <Resume style={{fontSize : "10vh"}} onClick={()=> window.open('https://drive.google.com/file/d/1QqMfk00VotM3CIY41H6eDkAviaZC0AZ7/view?usp=sharing','_blank')} />
         </Menu>
     </Wrapper>
   )
