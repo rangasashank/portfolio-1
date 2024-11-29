@@ -6,10 +6,10 @@ import {HashLink as Link} from 'react-router-hash-link';
 import Contact from './Contact';
 const projects = [
     {
-        name: 'Delight Departures',
-        desc: "Displays all the travel locations and services the company provides in a clean, aesthetic, and professional way with the ability to store 5000+ user messages in the Firebase database.",
-        link: "https://delightdepartures.com/",
-        img: "/dd.png"
+        name: 'Flatmate Flow',
+        desc: "Full Stack web application designed for roommates to manage shared tasks, expenses, and notes.",
+        link: "https://flatmateflow.netlify.app/",
+        img: "/ff.png"
     },
     {
         name: '7-Day-Weather App',

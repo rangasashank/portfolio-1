@@ -2,7 +2,6 @@ import React from 'react';
 import Styled from 'styled-components';
 import Fade from 'react-reveal/Fade';
 import SkillBox from './SkillBox';
-import {BrowserRouter as Router} from 'react-router-dom';
 import {HashLink as Link} from 'react-router-hash-link'
 import Projects from "./Projects"
 
@@ -27,6 +26,15 @@ function About() {
                     <SkillBox 
                     img="/react.png"
                     name="React"/>
+                    <SkillBox 
+                    img="/node.webp"
+                    name="NodeJS"/>
+                    <SkillBox 
+                    img="/express.webp"
+                    name="Express"/>
+                    <SkillBox 
+                    img="/mongodb.svg"
+                    name="MongoDB"/>
                     <SkillBox 
                     img="/python.png"
                     name="Python"/>
